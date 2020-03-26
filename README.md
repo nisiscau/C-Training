@@ -1,2 +1,2 @@
 # CPP-Training
-A series of scripts covering C++ fundamentals, named by topics
+A series of scripts covering C++ fundamentals, arranged by topic
